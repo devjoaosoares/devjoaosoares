@@ -1,5 +1,5 @@
 
-## Seja Bem-Vindo ao Meu perfil, Meu nome é João Vitor! 😸
+## Seja Bem-Vindo ao Meu perfil! 😸
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devjoaosoares&show_icons=true&theme=transparent)
 
