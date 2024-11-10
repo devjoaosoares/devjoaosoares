@@ -1,7 +1,15 @@
-
-## Seja Bem-Vindo ao Meu perfil, Meu nome é João Vitor! 😸
+## Seja Bem-Vindo ao Meu perfil! 😸
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devjoaosoares&show_icons=true&theme=transparent)
+
+##
+
+## Sobre Mim
+
+* 📚 Cursando Desenvolvimento de Sistemas
+* 🎮 Game DEV
+* 💻 UI/UX Designer
+* 🤓 Amo SQL e Backend
 
 ## Tecnologias que mais Utilizo 🖥️
 <div style="display: inline_block"><br>
