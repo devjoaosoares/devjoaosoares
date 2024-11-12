@@ -26,5 +26,7 @@
 
 #### ***Elbert Hubbard<br>"A tecnologia é uma ferramenta, e como toda ferramenta, depende de quem a utiliza."***
 
+##
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devjoaosoares&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
      
