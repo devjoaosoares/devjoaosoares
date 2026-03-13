@@ -4,6 +4,8 @@
 
 Sou um desenvolvedor focado em criar soluções que unem **código sólido** e **estratégia de conversão**. Atualmente, Formado em Desenvolvimento de Sistemas, explorando como a tecnologia pode ser o motor para alavancar negócios e experiências digitais.
 
+Quer saber mais sobre mim? Acesse meu <a href="https://meuportifolioonline.vercel.app/">Portifólio</a>
+
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
